@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    margin: 50px;
+}
+p {
+    color: black;
+    font-size: 125%;
+}
+table, th, td {
+    border: 1px black; border-collapse: collapse
+}
+h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 400%}
